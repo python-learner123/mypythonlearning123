@@ -13,7 +13,7 @@ try:
 	path=sys.argv[1]
 	filematch=sys.argv[2] 
 	
-except Error as err:
+except IndexError as err:
 	print("Please pass two argument as input for script, As example following:")
 	print(f'{scriptname} "C:\3781\Projects\Production_file\" "*msi"')
     raise
