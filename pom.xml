@@ -1,28 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@python-learner123 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-python-learner123
-/
-mypythonlearning123
-forked from pdurbin/mypythonlearning123
-0
-2770
- Code Pull requests 3 Actions Projects 0 Wiki Security Insights
-maven-hello-world/pom.xml
-@python-learner123 python-learner123 initial commit
-c5928cc on Mar 14, 2018
-110 lines (108 sloc)  3.38 KB
-  
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -133,15 +108,3 @@ c5928cc on Mar 14, 2018
     </plugins>
   </build>
 </project>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
