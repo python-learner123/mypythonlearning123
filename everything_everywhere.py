@@ -10,12 +10,12 @@ import sys
 scriptname=sys.argv[0]
 count=0
 try:
-	path=sys.argv[1]#"C:\Subex-3781\Projects\IDEA\idea"
-	filematch=sys.argv[2]#"*msi"
+	path=sys.argv[1]
+	filematch=sys.argv[2] 
 	
 except Error as err:
 	print("Please pass two argument as input for script, As example following:")
-	print(f'{scriptname} "C:\Subex-3781\Projects\IDEA\idea" "*msi"')
+	print(f'{scriptname} "C:\3781\Projects\Production_file\" "*msi"')
     raise
 
 
